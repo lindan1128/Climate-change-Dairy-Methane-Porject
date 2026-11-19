@@ -8,8 +8,7 @@ Data and analysis code for the methods in *Supplementary Materials*.
 .
 ├── data/
 │   ├── Historical_milk_climate_methane.xlsx
-│   ├── Other_exposures.xlsx
-│   └── Future_climate_population.xlsx
+│   └── Other_exposures.xlsx
 ├── data_sources.py                  # Data sources
 ├── data_processing.py               # Aggregation and transformations
 ├── historical_associations.R        # Long-term and single-variable models
